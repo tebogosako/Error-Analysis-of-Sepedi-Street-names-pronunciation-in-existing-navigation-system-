@@ -4,13 +4,13 @@ This repository contains the computational pipeline for evaluating and improving
 
 The project was developed for an Honours research report in Computing and compares the baseline TTS output against native speaker references, followed by the implementation of Rule-Based and Neural Grapheme-to-Phoneme (G2P) adaptation models.
 
-## 📊 Dataset
+##  Dataset
 *   **50 Sepedi street names** sourced from Gauteng municipal records.
 *   **250 Human Reference Recordings** (5 native speakers × 50 names).
 *   **50 Apple Maps TTS Outputs**.
 *   **3,515 Phone-level alignment comparisons**.
 
-## ⚙️ Pipeline Architecture
+##  Pipeline Architecture
 
 The pipeline is divided into three main phases:
 
@@ -29,7 +29,7 @@ The pipeline is divided into three main phases:
 ### Phase 3: Evaluation
 *   `08_evaluate_metrics.py` & `08b_evaluate_neural.py`: Calculates Phoneme Error Rate (PER), Edit Distance, and Pronunciation Similarity, culminating in a 3-way comparison chart.
 
-## 📈 Key Results
+## Key Results
 
 | Model | Average PER | Improvement vs Baseline |
 | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ The pipeline is divided into three main phases:
 
 *Note: The Rule-Based model successfully corrected English heuristics (e.g., the `kg` digraph). The Neural model suffered from data scarcity (trained on only 40 words), highlighting the need for larger Sepedi speech corpora in future work.*
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 1. **Clone the repository:**
    ```bash

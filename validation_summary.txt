@@ -1,0 +1,16 @@
+VALIDATION SUMMARY
+========================================
+
+Layer 1 - Two-recogniser agreement
+  Mean agreement: 0.279
+  Comparisons: 300
+  Flagged low-confidence: 271
+
+Layer 2 - Hand-transcription accuracy
+  allosaurus: 0.108 (n=24)
+
+Layer 3 - MFCC/DTW acoustic distance
+  Successful pairs: 250/250
+  Mean distance: 135.7787
+
+Layer 4 - Whisper check: completed on 250 comparisons

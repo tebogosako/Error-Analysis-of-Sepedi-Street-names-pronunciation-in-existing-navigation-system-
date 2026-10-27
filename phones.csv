@@ -1,0 +1,601 @@
+file,street,participant,source,recogniser,ipa_phones
+human_P1_Mabelebele.wav,Mabelebele,P1,human,allosaurus,m a b̞ e lʲ e b̞ i lʲ ɪ s t e r e tʲ e
+human_P1_Mabelebele.wav,Mabelebele,P1,human,wav2vec2,m a v i l v i l i s t r i d
+human_P1_Dinokeng.wav,Dinokeng,P1,human,allosaurus,ts ɪ dʲ ʏ n ʊ ɟ a ɪ ɲ iː s t ɒ r ɪ tʲ
+human_P1_Dinokeng.wav,Dinokeng,P1,human,wav2vec2,dʒ ɯ n u ɡ e ɲ i s t e r i t
+human_P1_Nare.wav,Nare,P1,human,allosaurus,m ɑ ɾ uː s t ɾ ɹ u
+human_P1_Nare.wav,Nare,P1,human,wav2vec2,n aː r i s t r ʉ d
+human_P1_Kgolomodumo.wav,Kgolomodumo,P1,human,allosaurus,ts ʌ ð e x ʌ lʲ ɒ m uə d ɨ m o s t ɾ e ɪ tʲ i
+human_P1_Kgolomodumo.wav,Kgolomodumo,P1,human,wav2vec2,v o n i x o l o m u d uː m o s t r aɪ t
+human_P1_Garenate.wav,Garenate,P1,human,allosaurus,x ʁ ɒ ʁ ə m a tʂ iː s t uə ɾ i tʂʰ
+human_P1_Garenate.wav,Garenate,P1,human,wav2vec2,x ɑ r eː m a d i s t r iː d
+human_P1_Korwe.wav,Korwe,P1,human,allosaurus,ɔ ɹ ɛ t ɹ i tʰ
+human_P1_Korwe.wav,Korwe,P1,human,wav2vec2,k oː r e s t r iː t
+human_P1_Mokgalo.wav,Mokgalo,P1,human,allosaurus,m ɔ ʁ x a l ɔ s̪ i
+human_P1_Mokgalo.wav,Mokgalo,P1,human,wav2vec2,m ɑ x a ɡ l ɑ s t r i t
+human_P1_Mochidi.wav,Mochidi,P1,human,allosaurus,m uə tɕʰ iː d iː s t ɾ ɨ ɪ t
+human_P1_Mochidi.wav,Mochidi,P1,human,wav2vec2,m o tʃ i d i s t ɹ oɪ t
+human_P1_Kgokong.wav,Kgokong,P1,human,allosaurus,s ɪ d ɔ m ә s ɛ t ʁ ɒ lʲ ɪ x
+human_P1_Kgokong.wav,Kgokong,P1,human,wav2vec2,x o ɡ o m ʊ s t r e d
+human_P1_Boikgantsho.wav,Boikgantsho,P1,human,allosaurus,w ɪ l j u h a j n d t͡ɕ w ɑ s ð ə ɾ ɹ i tʰ
+human_P1_Boikgantsho.wav,Boikgantsho,P1,human,wav2vec2,u j e x ɑ n tʃ o s t ɹ i n t
+human_P1_Areyeng.wav,Areyeng,P1,human,allosaurus,a rː uə ɾ uː i ə n t ɾ e ʂ ɻ̩
+human_P1_Areyeng.wav,Areyeng,P1,human,wav2vec2,a r i l e n s t r ʉ t
+human_P1_Annah_Mabusela.wav,Annah_Mabusela,P1,human,allosaurus,a ɛ ɳ n ɒ m ɒ j ɯ s ɛ l æ ʂ t ə i j
+human_P1_Annah_Mabusela.wav,Annah_Mabusela,P1,human,wav2vec2,a n a m a a uː s e l a s t r i
+human_P1_Bahula.wav,Bahula,P1,human,allosaurus,k͡p̚ l̪ a ŋ u uə lʲ a b̤ ɪ ɾ i
+human_P1_Bahula.wav,Bahula,P1,human,wav2vec2,v a h u l a s t r i t
+human_P1_Baloyi.wav,Baloyi,P1,human,allosaurus,b̞ a l ʊ ɪ z ɾ ʀ e
+human_P1_Baloyi.wav,Baloyi,P1,human,wav2vec2,v a l o j i s t r i d
+human_P1_Batlatja.wav,Batlatja,P1,human,allosaurus,a v ə a ɪ n s l a x ə ɛ s ɡ e ɾ ɪ t
+human_P1_Batlatja.wav,Batlatja,P1,human,wav2vec2,ə h a t l a dʒ a s r i t
+human_P1_Bereng.wav,Bereng,P1,human,allosaurus,s m ɛ r ə ŋ d n ts e ʀ ɪ
+human_P1_Bereng.wav,Bereng,P1,human,wav2vec2,b e r e i n s t e r ʉ
+human_P1_Bodibe.wav,Bodibe,P1,human,allosaurus,ʊ dʲ iː v ɛ s t ə ʁ i
+human_P1_Bodibe.wav,Bodibe,P1,human,wav2vec2,u d i v e s t ɹ e t
+human_P1_Bokamoso.wav,Bokamoso,P1,human,allosaurus,ɔ ɡ a m ʊ s a s ə k ɻ̩ m ɛ ɪ
+human_P1_Bokamoso.wav,Bokamoso,P1,human,wav2vec2,b u k ɐ m u s o s t ɹ eɪ t
+human_P1_Boshielo.wav,Boshielo,P1,human,allosaurus,uə ɕ i ɛ l o s g ɾ ɪ
+human_P1_Boshielo.wav,Boshielo,P1,human,wav2vec2,v u ʃ i e l o s t r i t
+human_P1_Botodi.wav,Botodi,P1,human,allosaurus,ʔ ɯ u t̪ uə lʲ j y e s t̪ ɪ ɾ uː tʂ k͡p̚ iː
+human_P1_Botodi.wav,Botodi,P1,human,wav2vec2,o t o d i s t ɹ u ŋ t
+human_P1_Busang.wav,Busang,P1,human,allosaurus,b u ŋ̟ ʂ ɒ ɴ s t̪ ә ɾ a ɴ
+human_P1_Busang.wav,Busang,P1,human,wav2vec2,b uː s a n s t ɹ i t
+human_P1_Dibakwane.wav,Dibakwane,P1,human,allosaurus,d u j u l ʌ k w ʌ n t ɹ i tʰ
+human_P1_Dibakwane.wav,Dibakwane,P1,human,wav2vec2,d iː v ʌ k aː n s t r iː t
+human_P1_Dikgakgathe.wav,Dikgakgathe,P1,human,allosaurus,d ɪ x ɑ x a ɴ t͡ʃʲ ɛ t͡ʃʲ t ɹ̩ r ɪ
+human_P1_Dikgakgathe.wav,Dikgakgathe,P1,human,wav2vec2,d i χ a χ a t a s t r i
+human_P1_Dimakatso.wav,Dimakatso,P1,human,allosaurus,d ɪ m a l ɡ a ɪ ɳ ɴ t͡ʃ ʊ s t̪ ɹ̩ ɾ e tʲ
+human_P1_Dimakatso.wav,Dimakatso,P1,human,wav2vec2,d i m ɐ k a dʒ u s t r i d
+human_P1_Dinamo.wav,Dinamo,P1,human,allosaurus,lʲ i n a m o s sː ɾ e n ɪ s
+human_P1_Dinamo.wav,Dinamo,P1,human,wav2vec2,d i n aː m o s t r i d
+human_P1_Ditshego.wav,Ditshego,P1,human,allosaurus,lʲ ɪ ɕː ɛ o a v ɪ ɲ ʊ
+human_P1_Ditshego.wav,Ditshego,P1,human,wav2vec2,d i tʃ e o a v e n j o
+human_P1_Fenyane.wav,Fenyane,P1,human,allosaurus,v ə ɲ æ n i ɒ z i
+human_P1_Fenyane.wav,Fenyane,P1,human,wav2vec2,s e ɲ aː n i a v e
+human_P1_Fetakgomo.wav,Fetakgomo,P1,human,allosaurus,ʂ ʏ t a kʰ uə m uə a ɾ iː n iː
+human_P1_Fetakgomo.wav,Fetakgomo,P1,human,wav2vec2,f e t a ʁ o m a v e l ø
+human_P1_Gamolapo.wav,Gamolapo,P1,human,allosaurus,s̪ ɒ m u l a p uə ɛ b̞ e ɴ ɲ u
+human_P1_Gamolapo.wav,Gamolapo,P1,human,wav2vec2,ʁ a m o l aː p o e v e ɲ u
+human_P1_Golele.wav,Golele,P1,human,allosaurus,o ʁ ɔ lʲ e ɳ j iː d̪ ʊ r uː t̪ ɪ
+human_P1_Golele.wav,Golele,P1,human,wav2vec2,v o l eː l i s t r r iː t
+human_P1_Kgaka.wav,Kgaka,P1,human,allosaurus,a ʁ x a ð a s t ʁ i t
+human_P1_Kgaka.wav,Kgaka,P1,human,wav2vec2,ɐ x a ɡ ɐ s t ɹ i t ɨ
+human_P1_Kubu.wav,Kubu,P1,human,allosaurus,uə p ə s g ɪ ɾʲ t
+human_P1_Kubu.wav,Kubu,P1,human,wav2vec2,k u ɡ u s t ɹ ʉ t
+human_P1_Leeba.wav,Leeba,P1,human,allosaurus,t̪ʰ iː lʲ ɪ w ɑ z t ɾ ɹ i d
+human_P1_Leeba.wav,Leeba,P1,human,wav2vec2,l i v a s t r i ts
+human_P1_Lefye.wav,Lefye,P1,human,allosaurus,l ɪ ɕː j ɪ ə s t ɹ̩ r ɪ n t͡ʃ a
+human_P1_Lefye.wav,Lefye,P1,human,wav2vec2,l e f j e s t r i t r
+human_P1_Lerubitshi.wav,Lerubitshi,P1,human,allosaurus,ɻ lʲ ə ɾ u b̞ iː ʂ iː ʌ b j iː t̪
+human_P1_Lerubitshi.wav,Lerubitshi,P1,human,wav2vec2,l e r u v i s ts i s t r i t
+human_P1_Legakabye.wav,Legakabye,P1,human,allosaurus,l a ɡ a ɪ v̞ʲ j ɛ s t ɾ ʁ j tʲ
+human_P1_Legakabye.wav,Legakabye,P1,human,wav2vec2,l a h a k a v j e s t r i d
+human_P1_Mamasiyanoka.wav,Mamasiyanoka,P1,human,allosaurus,m a m ɒ ɕ ij j a ɴ uə o l̪ k͡p̚ ɒ s t̪ ʌ b e
+human_P1_Mamasiyanoka.wav,Mamasiyanoka,P1,human,wav2vec2,m a m a s i a l n o k a s t r i d
+human_P1_Maretologa.wav,Maretologa,P1,human,allosaurus,m a ɾ ɛ ɪ tʂ o uə l uə x a s sː ɾ i ɴ t e
+human_P1_Maretologa.wav,Maretologa,P1,human,wav2vec2,m a r e dʒ o l oː x a s t r i d
+human_P1_Mmupudu.wav,Mmupudu,P1,human,allosaurus,m ɔ̃ b uə ɾ u z g r ɛ tʲ
+human_P1_Mmupudu.wav,Mmupudu,P1,human,wav2vec2,m u p u d u s d ɹ e t ɨ
+human_P1_Mmutla.wav,Mmutla,P1,human,allosaurus,m ʊ ɡ̤ a zʲ ɪ zʲ a b̞ ɪ
+human_P1_Mmutla.wav,Mmutla,P1,human,wav2vec2,m uː d l a s t e ɹ i t
+human_P1_Phuduhudu.wav,Phuduhudu,P1,human,allosaurus,k u ð o b̞ uə ð ɪ s t ɾ ɤ̆ t
+human_P1_Phuduhudu.wav,Phuduhudu,P1,human,wav2vec2,p u d ʊ ʁ u z eɪ ŋ ʃ t ɹ i t ɨ
+human_P1_Pikoko.wav,Pikoko,P1,human,allosaurus,p iː ŋ k uə ə l̪ k uə ɑ s tʂ ɹ̩ ɾ i
+human_P1_Pikoko.wav,Pikoko,P1,human,wav2vec2,p i ɡ o k o s t r i t
+human_P1_Ramofye.wav,Ramofye,P1,human,allosaurus,p a m uə f ɪ s t ɾ i
+human_P1_Ramofye.wav,Ramofye,P1,human,wav2vec2,r a m uː f e s t r i t
+human_P1_Thakadi.wav,Thakadi,P1,human,allosaurus,k a ɡ a l ɪ t͡ʃʲ t ʁ ɪ t
+human_P1_Thakadi.wav,Thakadi,P1,human,wav2vec2,t a ɡ a d i s t v i d
+human_P1_Phepheng.wav,Phepheng,P1,human,allosaurus,t̪ʰ iː s ɒ b̞ ɒ ɪ
+human_P1_Phepheng.wav,Phepheng,P1,human,wav2vec2,m a p ɛ p ɪ ŋ s s t r aɪ
+human_P1_Phokobye.wav,Phokobye,P1,human,allosaurus,p ʊ o v j a s t ɹ̩ ɾ ɪ tʲ
+human_P1_Phokobye.wav,Phokobye,P1,human,wav2vec2,p u oʊ b i e s t ɹ i t
+human_P1_Ntsu.wav,Ntsu,P1,human,allosaurus,ɪ n ts ʊ s t e ɾ tʂʰ ʀ a f
+human_P1_Ntsu.wav,Ntsu,P1,human,wav2vec2,i n ts uː s t r iː t
+human_P1_Nkwe.wav,Nkwe,P1,human,allosaurus,ʊ b̞ w ɛ ɪ s ɾ ʁ ɪ tʲ
+human_P1_Nkwe.wav,Nkwe,P1,human,wav2vec2,ũ ŋ ɡ w ɐ s t ɹ i d
+human_P1_Segodi.wav,Segodi,P1,human,allosaurus,s̪ iː x uə dʲ iː s t ɾ i tʰ
+human_P1_Segodi.wav,Segodi,P1,human,wav2vec2,s ɨ h o d ɨ s t ɹ i t
+human_P1_Mmilo.wav,Mmilo,P1,human,allosaurus,m iː lː a s t ɛ r e m
+human_P1_Mmilo.wav,Mmilo,P1,human,wav2vec2,m i l ɑ s t e r i t
+human_P2_Mabelebele.wav,Mabelebele,P2,human,allosaurus,m a b̞ e n ɪ b̞ iː lʲ e s t ɾ e tʂ
+human_P2_Mabelebele.wav,Mabelebele,P2,human,wav2vec2,m ʌ b i l i v eː l i s t r i t
+human_P2_Dinokeng.wav,Dinokeng,P2,human,allosaurus,ʒ j y n e ɟ j e s t̪ ɛ ɾ r ɒ j ʔ ɔ t̪ uː j b uə o k͡p̚ ʏ
+human_P2_Dinokeng.wav,Dinokeng,P2,human,wav2vec2,dʒ iː n ə ɡ ɛ n s t r eː t v aʊ s t oː r l ə n r oː k uː
+human_P2_Nare.wav,Nare,P2,human,allosaurus,n æ ʔ ɾ ʌ s t̪ ʌ ɾ i tʲ
+human_P2_Nare.wav,Nare,P2,human,wav2vec2,n aː r i s t r i t
+human_P2_Kgolomodumo.wav,Kgolomodumo,P2,human,allosaurus,x ɒ l ʊ m ɯ dʲ iː m uə z u t a ʁ e lʲ
+human_P2_Kgolomodumo.wav,Kgolomodumo,P2,human,wav2vec2,x ɑ l o m u d i m u s t e ɹ e t
+human_P2_Garenate.wav,Garenate,P2,human,allosaurus,ʁ a ɾ iː n æ t͡ɕ y s̪ t̪ ʊ r ɒ j t͡ʃ
+human_P2_Garenate.wav,Garenate,P2,human,wav2vec2,x a r r i n aː dʒ i s t r i tʃ
+human_P2_Korwe.wav,Korwe,P2,human,allosaurus,ʔ o r ɒ s t̪ ʌ r ɒ j ɴ
+human_P2_Korwe.wav,Korwe,P2,human,wav2vec2,k o r e s t r i
+human_P2_Mokgalo.wav,Mokgalo,P2,human,allosaurus,m ɔ̃ x a l ɔ s ʃ uə ɥ i tʲ
+human_P2_Mokgalo.wav,Mokgalo,P2,human,wav2vec2,m o x a l o s t ɹ iː t
+human_P2_Mochidi.wav,Mochidi,P2,human,allosaurus,m u tɕʰ iː j d j e iː s t̪ ʊ r a j t͡ɕ
+human_P2_Mochidi.wav,Mochidi,P2,human,wav2vec2,m u tʃ i d i s t ɹ i t
+human_P2_Kgokong.wav,Kgokong,P2,human,allosaurus,ʔ ɒ t̪ ɨ
+human_P2_Kgokong.wav,Kgokong,P2,human,wav2vec2,h o k o m s t r i t
+human_P2_Boikgantsho.wav,Boikgantsho,P2,human,allosaurus,w i ʁ ʌ n d͡ʒ æ s ð ə ɹ ɪ n tʰ s
+human_P2_Boikgantsho.wav,Boikgantsho,P2,human,wav2vec2,w iː x a n tʃ o s t e r i d
+human_P2_Areyeng.wav,Areyeng,P2,human,allosaurus,a ɾ e n ɾ i lʲ ɪ ɾ
+human_P2_Areyeng.wav,Areyeng,P2,human,wav2vec2,a r ɪ ŋ s t r iː t
+human_P2_Annah_Mabusela.wav,Annah_Mabusela,P2,human,allosaurus,a n a m a m w ɨ s e l a t ɾ i
+human_P2_Annah_Mabusela.wav,Annah_Mabusela,P2,human,wav2vec2,a n a m a b u s e l a s t ɹ i d
+human_P2_Bahula.wav,Bahula,P2,human,allosaurus,m a ʁ uə l a s ʁ ɪ
+human_P2_Bahula.wav,Bahula,P2,human,wav2vec2,b a h uː l a s t r i t
+human_P2_Baloyi.wav,Baloyi,P2,human,allosaurus,b̥ a lʲ uə i ɪ s t ə ɾ e
+human_P2_Baloyi.wav,Baloyi,P2,human,wav2vec2,v a l uː i s t r i t
+human_P2_Batlatja.wav,Batlatja,P2,human,allosaurus,v a tʂ y æ ɪ tʂ ɒ ә ʁ e
+human_P2_Batlatja.wav,Batlatja,P2,human,wav2vec2,b a t ʐ aː dʒ aː s t ʉ
+human_P2_Bereng.wav,Bereng,P2,human,allosaurus,n e b̞ ɛ æ ʁ ij j n ә s t ɒ j ɴ ә
+human_P2_Bereng.wav,Bereng,P2,human,wav2vec2,v a s j oː s t a t b e r i v e r ɪ ŋ s t ɹ iː t
+human_P2_Bodibe.wav,Bodibe,P2,human,allosaurus,u d i ð ɪ s t ə ʀ e j
+human_P2_Bodibe.wav,Bodibe,P2,human,wav2vec2,u d iː v e s t r aɪ
+human_P2_Bokamoso.wav,Bokamoso,P2,human,allosaurus,b̞ uə g a m ɔ̃ ɕ ɔ t e ɾ r iː
+human_P2_Bokamoso.wav,Bokamoso,P2,human,wav2vec2,b u k a m uː s ɑ s t e r
+human_P2_Boshielo.wav,Boshielo,P2,human,allosaurus,v u ɕ ɪ ɛ l ɔ ʒ ɪ t ɛ ʁ ɪ zʲ
+human_P2_Boshielo.wav,Boshielo,P2,human,wav2vec2,b u ʃ i a l ɑ s t e r r i d
+human_P2_Botodi.wav,Botodi,P2,human,allosaurus,m o tʂ o lʲ ɪ s t ɑ ɾ e t
+human_P2_Botodi.wav,Botodi,P2,human,wav2vec2,m u t oː d i s t ɹ e d
+human_P2_Busang.wav,Busang,P2,human,allosaurus,j u ʃ j a m ә s t̪ ɛ r ɒ j
+human_P2_Busang.wav,Busang,P2,human,wav2vec2,b u ʃ a ŋ s t r i
+human_P2_Dibakwane.wav,Dibakwane,P2,human,allosaurus,ɪ dʲ iː b̞ ʌ m ɔ a mʲ iː
+human_P2_Dibakwane.wav,Dibakwane,P2,human,wav2vec2,d i v a k a n
+human_P2_Dikgakgathe.wav,Dikgakgathe,P2,human,allosaurus,ɤ̆ ɴ ɔ ɴ ʌ ɳ ʌ o p i ŋ x a x a ɪ tɕʰ i t̪ ɾ e
+human_P2_Dikgakgathe.wav,Dikgakgathe,P2,human,wav2vec2,v a m m a d a m m a d i x a x a t iː s t r ʉ d
+human_P2_Dimakatso.wav,Dimakatso,P2,human,allosaurus,d ɪ ə m a g ɾ a ɪ t͡ʃʲ ʊ s t ɑ ɾ e tʂ ɪ
+human_P2_Dimakatso.wav,Dimakatso,P2,human,wav2vec2,d i m ɐ k a t u s t ɐ ɹ eɪ t
+human_P2_Dinamo.wav,Dinamo,P2,human,allosaurus,d iː n a m ɔ s t ɛ r ɪ tʲ
+human_P2_Dinamo.wav,Dinamo,P2,human,wav2vec2,d i n a m ɑ s t r i d
+human_P2_Ditshego.wav,Ditshego,P2,human,allosaurus,iː tʲ ɛ ʁ o ʔ e β e ɴ ɲ j o
+human_P2_Ditshego.wav,Ditshego,P2,human,wav2vec2,l i t ɛ ʁ ɛ v ə n y
+human_P2_Fenyane.wav,Fenyane,P2,human,allosaurus,s e ɲ æ m iː ɛ v ɹ̩ ɲ u
+human_P2_Fenyane.wav,Fenyane,P2,human,wav2vec2,f e ɲ a n i e v e ɲ uː
+human_P2_Fetakgomo.wav,Fetakgomo,P2,human,allosaurus,f ɪ ɾ a x ɔ m ɛ v ɪ ɲ ʊ
+human_P2_Fetakgomo.wav,Fetakgomo,P2,human,wav2vec2,f i d a h oː m a v eː n j uː
+human_P2_Gamolapo.wav,Gamolapo,P2,human,allosaurus,v a m o l a f uə a ð e ɲ iː s
+human_P2_Gamolapo.wav,Gamolapo,P2,human,wav2vec2,r a m o l aː p o ʌ v e ɲ i
+human_P2_Golele.wav,Golele,P2,human,allosaurus,ɔ lʲ e l ɪ s k ʁ e zʲ
+human_P2_Golele.wav,Golele,P2,human,wav2vec2,o l e l i s t r ɹ i d
+human_P2_Kgaka.wav,Kgaka,P2,human,allosaurus,s a ɒ d a ɪ s t ɻ̩ ɾ i tʲ
+human_P2_Kgaka.wav,Kgaka,P2,human,wav2vec2,a ɡ a s t r i d
+human_P2_Kubu.wav,Kubu,P2,human,allosaurus,k uə v u ʂ e r ɤ̆
+human_P2_Kubu.wav,Kubu,P2,human,wav2vec2,k u v u s t e r e
+human_P2_Leeba.wav,Leeba,P2,human,allosaurus,lʲ e b̞ a ɾ t ə r i
+human_P2_Leeba.wav,Leeba,P2,human,wav2vec2,l e v aː s t ɹ i d
+human_P2_Lefye.wav,Lefye,P2,human,allosaurus,n j e ɕ iː j a s̪ t̪ ɛ ɾ ʌ n
+human_P2_Lefye.wav,Lefye,P2,human,wav2vec2,l e f i a s t r y t
+human_P2_Lerubitshi.wav,Lerubitshi,P2,human,allosaurus,l e ʁ i m iː ɕ ɪ s t e ɾ e n
+human_P2_Lerubitshi.wav,Lerubitshi,P2,human,wav2vec2,l e r i v iː ʃ i s t e r e t
+human_P2_Legakabye.wav,Legakabye,P2,human,allosaurus,l a ɡ a ɪ v ɪ s t r i tʲ
+human_P2_Legakabye.wav,Legakabye,P2,human,wav2vec2,l e h a ɡ a v j ɲ e s t r i t
+human_P2_Mamasiyanoka.wav,Mamasiyanoka,P2,human,allosaurus,b ʌ r o ә lʲ ɒ o b a ɾ d ɯ j iː ʏ iː j d e ʔ e ɳ ɪ d e m o l e b j e ɴ lː ɒ tɕ iː ð ɪ m u ɾ ɒ n d͡ʒ̤ ʏ s̪ o uə ɔ lʲ a m ɨ ɒ tʲ iː ʌ ð ʌ d j i j s̪ iː b ɪ o j l̪ l ɒ o ʏ uə uː ʁ ɒ s̪ lʲ j e t tː ɒ lʲ iː j o ɒ j ɯ k ɒ s æ b e m e d iː j ʂ j e uə o b̤ ɪ ɾ r j uː ɾ lʲ m a m ɒ ʃ iː j a ɳ ɴ o k͡p̚ ɒ t̪ ә r ɒ j
+human_P2_Mamasiyanoka.wav,Mamasiyanoka,P2,human,wav2vec2,t a r o r n o b a t u d i s i d e e n ʌ d ʌ m o l e v e l n a z d ʌ m uː u o n a n d i d s u u n ʌ m u v ʌ p tʃ i t k e r d i i ɡ u v o n a f o u l u r k a r d i t a e r ɑ r i k a e n b e m e l ɡ i ʃ e q o t r e v ʉ v u k m a m a ʃ i a n o k a s t r i
+human_P2_Maretologa.wav,Maretologa,P2,human,allosaurus,m a r e t ɾ l̪ l o n a ɾ i tʰ
+human_P2_Maretologa.wav,Maretologa,P2,human,wav2vec2,m a r aɪ d l oː v a s t r i d
+human_P2_Mmupudu.wav,Mmupudu,P2,human,allosaurus,m ɔ̃ p uə d ɪ s t ɾ ɪ t
+human_P2_Mmupudu.wav,Mmupudu,P2,human,wav2vec2,m o p u d u s t ɹ i t ɨ
+human_P2_Mmutla.wav,Mmutla,P2,human,allosaurus,m uə tʰ ɒ s t ɾ i tʰ
+human_P2_Mmutla.wav,Mmutla,P2,human,wav2vec2,m u d a s t r i t
+human_P2_Phuduhudu.wav,Phuduhudu,P2,human,allosaurus,p u ɾ uə b̞ uə d uə s t ɾ i tʲ
+human_P2_Phuduhudu.wav,Phuduhudu,P2,human,wav2vec2,p u d h uː d u s t r i t
+human_P2_Pikoko.wav,Pikoko,P2,human,allosaurus,i f ɒ p ʀ a n ʃ uə ɪ z
+human_P2_Pikoko.wav,Pikoko,P2,human,wav2vec2,iː k o k o s t ɹ i t
+human_P2_Ramofye.wav,Ramofye,P2,human,allosaurus,a ɾ ɒ m uə x ɪ s t ə e
+human_P2_Ramofye.wav,Ramofye,P2,human,wav2vec2,r a m u f i s t r aɪ d
+human_P2_Thakadi.wav,Thakadi,P2,human,allosaurus,tʲ ə a l ɡ a ɪ ɳ n d i z ɹ̩ t ʀ e n t
+human_P2_Thakadi.wav,Thakadi,P2,human,wav2vec2,k ɐ k a d i s t ɹ eɪ d
+human_P2_Phepheng.wav,Phepheng,P2,human,allosaurus,p ɯ ɾ p iː ŋ s t ə ɾ ɪ tʃ
+human_P2_Phepheng.wav,Phepheng,P2,human,wav2vec2,p eɪ p eɪ ŋ s t ə ɹ ɪ dʒ
+human_P2_Phokobye.wav,Phokobye,P2,human,allosaurus,pʰ uə k uə p j iː e z t ɾ ə
+human_P2_Phokobye.wav,Phokobye,P2,human,wav2vec2,p u k u p i e s t ɹ i t
+human_P2_Ntsu.wav,Ntsu,P2,human,allosaurus,a n s ʊ ʐ ʊ n tʂ œ s̪ tʲ ɛ b̞ ɪ n tʲ iː
+human_P2_Ntsu.wav,Ntsu,P2,human,wav2vec2,uː s u r u n z uː s t e ɹ i t
+human_P2_Nkwe.wav,Nkwe,P2,human,allosaurus,ʔ ɯ k͡p̚ uə ɒ n ʂ t ә l̪ j
+human_P2_Nkwe.wav,Nkwe,P2,human,wav2vec2,ũ k w e s t ɹ i
+human_P2_Segodi.wav,Segodi,P2,human,allosaurus,tʰ ɯ s ʌ o uː lʲ i s t e i n
+human_P2_Segodi.wav,Segodi,P2,human,wav2vec2,s o d i s t e r r i d
+human_P2_Mmilo.wav,Mmilo,P2,human,allosaurus,m i l ɔ tʂ ʏ tʰ
+human_P2_Mmilo.wav,Mmilo,P2,human,wav2vec2,m iː l o s t r i t
+human_P3_Mabelebele.wav,Mabelebele,P3,human,allosaurus,m ɑ b̞ iː l ɨ b̞ ɪ n d ɪ z t ɾ ɹ e tʰ s
+human_P3_Mabelebele.wav,Mabelebele,P3,human,wav2vec2,m ʌ v e r l i v i l ʌ s d r ʉ t
+human_P3_Dinokeng.wav,Dinokeng,P3,human,allosaurus,dʲ iː n ɔ ɟ e ŋ ɪ s t ə r e tʂʰ
+human_P3_Dinokeng.wav,Dinokeng,P3,human,wav2vec2,d i n oː k e ŋ e s t ɹ i d
+human_P3_Nare.wav,Nare,P3,human,allosaurus,n a ʁ ɪ s t ɾ e zʲ
+human_P3_Nare.wav,Nare,P3,human,wav2vec2,n a r i s t r i t
+human_P3_Kgolomodumo.wav,Kgolomodumo,P3,human,allosaurus,p ʁ ɔ l ɔ m uə d u v w ɔ s t ɾ ɪ tʲ iː
+human_P3_Kgolomodumo.wav,Kgolomodumo,P3,human,wav2vec2,x o l o m u d uː m o s t r i t
+human_P3_Garenate.wav,Garenate,P3,human,allosaurus,x a r ɛ m a tʂ œ s ɔ m ɪ tʲ
+human_P3_Garenate.wav,Garenate,P3,human,wav2vec2,h a r n a dʒ a s t r i d
+human_P3_Korwe.wav,Korwe,P3,human,allosaurus,p ɔ ɾ ɛ s t ɾ ɪ ɡ
+human_P3_Korwe.wav,Korwe,P3,human,wav2vec2,k o r l e s t r i d
+human_P3_Mokgalo.wav,Mokgalo,P3,human,allosaurus,m uə p a l ə l̪ z l i tʰ
+human_P3_Mokgalo.wav,Mokgalo,P3,human,wav2vec2,m o k a l o s t e r i t
+human_P3_Mochidi.wav,Mochidi,P3,human,allosaurus,ʊ n tɕʰ i d iː s t ɾ e tʲ
+human_P3_Mochidi.wav,Mochidi,P3,human,wav2vec2,m u tʃ i d ɨ s t ɹ eɪ t
+human_P3_Kgokong.wav,Kgokong,P3,human,allosaurus,r a k͡p̚ u m ә t̪ ɾ i j
+human_P3_Kgokong.wav,Kgokong,P3,human,wav2vec2,x oː ɡ ʊ ŋ s t ɹ iː t
+human_P3_Boikgantsho.wav,Boikgantsho,P3,human,allosaurus,ɨ x ɒ ә ʂ ɔ s t ә ɾ ɒ tʲ
+human_P3_Boikgantsho.wav,Boikgantsho,P3,human,wav2vec2,uɨ x a n tʃ o s d r ɨ d
+human_P3_Areyeng.wav,Areyeng,P3,human,allosaurus,ʁ a r e n l s a r ɪ tʂ
+human_P3_Areyeng.wav,Areyeng,P3,human,wav2vec2,a r j eː n i s t r i t
+human_P3_Annah_Mabusela.wav,Annah_Mabusela,P3,human,allosaurus,ʔ a n ɴ n ɒ m ɒ b uː ʃ ɛ l ɪ
+human_P3_Annah_Mabusela.wav,Annah_Mabusela,P3,human,wav2vec2,a n a m a ɡ u s e l ɐ s t ɹ i d
+human_P3_Bahula.wav,Bahula,P3,human,allosaurus,b ɒ n ʁ u lʲ ɒ d̪ ɨ r i
+human_P3_Bahula.wav,Bahula,P3,human,wav2vec2,v a h u l a s t r i d
+human_P3_Baloyi.wav,Baloyi,P3,human,allosaurus,ɔ b̞ a m ʊ t ə ɾ lʲ ɪ s t ә
+human_P3_Baloyi.wav,Baloyi,P3,human,wav2vec2,o v a n d iː s t r i t
+human_P3_Batlatja.wav,Batlatja,P3,human,allosaurus,b̞ a t lʲ a t͡ʃ a s t ʁ e tʲ
+human_P3_Batlatja.wav,Batlatja,P3,human,wav2vec2,b a t l a dʒ a s t r i d
+human_P3_Bereng.wav,Bereng,P3,human,allosaurus,s m ɛ r ə ŋ d n ts e ʀ ɪ
+human_P3_Bereng.wav,Bereng,P3,human,wav2vec2,b e r e i n s t e r ʉ
+human_P3_Bodibe.wav,Bodibe,P3,human,allosaurus,m u dʲ iː mʲ e ɾ ɪ tʲ
+human_P3_Bodibe.wav,Bodibe,P3,human,wav2vec2,b ʉ d iː v e s t r i d
+human_P3_Bokamoso.wav,Bokamoso,P3,human,allosaurus,p uə ɡ a m ʊ s ʌ s t ə ɾ e n ɕ
+human_P3_Bokamoso.wav,Bokamoso,P3,human,wav2vec2,v u k ɐ m u s o s t ɹ i t ɨ
+human_P3_Boshielo.wav,Boshielo,P3,human,allosaurus,b u ɕ j ɪ a l ɔ a r ɛ tʲ
+human_P3_Boshielo.wav,Boshielo,P3,human,wav2vec2,b u ʃ iː a l a s t r i d
+human_P3_Botodi.wav,Botodi,P3,human,allosaurus,p uə tʂ uə l iː s t ɛ ɾ ɪ s
+human_P3_Botodi.wav,Botodi,P3,human,wav2vec2,o ʈ o d i s t r i t
+human_P3_Busang.wav,Busang,P3,human,allosaurus,m uː ʂ ɒ ɳ k s t ɾ uə i t
+human_P3_Busang.wav,Busang,P3,human,wav2vec2,v uː ʃ aː n s t r iː t
+human_P3_Dibakwane.wav,Dibakwane,P3,human,allosaurus,ʔ i b̞ a k͡p̚ uə a ɛ ɳ iː ʂ t ɻ̩ lʲ ɒ tʲ
+human_P3_Dibakwane.wav,Dibakwane,P3,human,wav2vec2,d iː v a l ɡ w aɪ n ɪ s t ɹ i t
+human_P3_Dikgakgathe.wav,Dikgakgathe,P3,human,allosaurus,j u h ɒ x ɒ t̪ʰ e t ə tʰ
+human_P3_Dikgakgathe.wav,Dikgakgathe,P3,human,wav2vec2,d iː x a x a l t eː s t r iː t
+human_P3_Dimakatso.wav,Dimakatso,P3,human,allosaurus,d ɪ m a ɡ a t͡ʃʲ ʌ s ə r e ɴ e
+human_P3_Dimakatso.wav,Dimakatso,P3,human,wav2vec2,d i m a k a dʒ o s t r ɹ i t
+human_P3_Dinamo.wav,Dinamo,P3,human,allosaurus,iː n a m o s tʲ ə ʁ i
+human_P3_Dinamo.wav,Dinamo,P3,human,wav2vec2,d i n a m o s t r i
+human_P3_Ditshego.wav,Ditshego,P3,human,allosaurus,ɾʲ ɪ tsʰ ɛ ʁ o a b̞ ɪ ɲ iː s̪
+human_P3_Ditshego.wav,Ditshego,P3,human,wav2vec2,d i t ts e ʁ o a v e ɲ i
+human_P3_Fenyane.wav,Fenyane,P3,human,allosaurus,f ɛ ɴ ɲ a n iː ɛ b̞ e n o uə
+human_P3_Fenyane.wav,Fenyane,P3,human,wav2vec2,f e ɲ a n i e b e ɲ u
+human_P3_Fetakgomo.wav,Fetakgomo,P3,human,allosaurus,ts i d a x o m uː a l ɪ ɲ iː z
+human_P3_Fetakgomo.wav,Fetakgomo,P3,human,wav2vec2,f i d a x o m u a ð e i
+human_P3_Gamolapo.wav,Gamolapo,P3,human,allosaurus,k a m u lʲ l a p uə ɛ ə v e ɲ ʊ
+human_P3_Gamolapo.wav,Gamolapo,P3,human,wav2vec2,aː m u l aː b o ʔ a v i ɲ uː
+human_P3_Golele.wav,Golele,P3,human,allosaurus,uə lʲ ɛ lʲ ɛ s t ɒ
+human_P3_Golele.wav,Golele,P3,human,wav2vec2,h u l e l e s t r ʉ t
+human_P3_Kgaka.wav,Kgaka,P3,human,allosaurus,ɒ x ɒ d ɒ ʃ tʲ e
+human_P3_Kgaka.wav,Kgaka,P3,human,wav2vec2,x a ɡ a s t o
+human_P3_Kubu.wav,Kubu,P3,human,allosaurus,u uː s t uə ɾ i
+human_P3_Kubu.wav,Kubu,P3,human,wav2vec2,k u m u s t ɹ i
+human_P3_Leeba.wav,Leeba,P3,human,allosaurus,lʲ ɪ b̞ ʌ z t̪ ə lʲ iː t
+human_P3_Leeba.wav,Leeba,P3,human,wav2vec2,l e v a s t r i t
+human_P3_Lefye.wav,Lefye,P3,human,allosaurus,l ɪ f i s k e ʀ ɪ n t
+human_P3_Lefye.wav,Lefye,P3,human,wav2vec2,l i f j e s t r i d
+human_P3_Lerubitshi.wav,Lerubitshi,P3,human,allosaurus,l ɛ ɹ ə l ɹ i tɕʰ iː s t ɹ ɪ ŋ tʰ
+human_P3_Lerubitshi.wav,Lerubitshi,P3,human,wav2vec2,l e r u v i tʃ i s t r iː t
+human_P3_Legakabye.wav,Legakabye,P3,human,allosaurus,l a ɡ a ɪ v̞ʲ j ɪ ɛ s t ɾ ɪ n tɕʰ
+human_P3_Legakabye.wav,Legakabye,P3,human,wav2vec2,l a h a k a v j e s t r i d
+human_P3_Mamasiyanoka.wav,Mamasiyanoka,P3,human,allosaurus,m a m a s ɪ a n ʊ ŋ ɡ a s t r e zʲ
+human_P3_Mamasiyanoka.wav,Mamasiyanoka,P3,human,wav2vec2,m a m ɐ s i ɐ n uː ɡ ɐ s t r i d
+human_P3_Maretologa.wav,Maretologa,P3,human,allosaurus,m a ɾ a ʌ ɪ tʂ o ɾ l uə a s t a r e lʲ ɕ
+human_P3_Maretologa.wav,Maretologa,P3,human,wav2vec2,b a r e t r u l uː a s t e r v e t
+human_P3_Mmupudu.wav,Mmupudu,P3,human,allosaurus,ɔ̃ b uə ʁ uə ɾ uə tʲ e r e tʲ
+human_P3_Mmupudu.wav,Mmupudu,P3,human,wav2vec2,n ũ p o d u s t ɨ ɹ e t ɨ
+human_P3_Mmutla.wav,Mmutla,P3,human,allosaurus,ʊ m u tʂ a s a ɾ ʀ e n tʂ
+human_P3_Mmutla.wav,Mmutla,P3,human,wav2vec2,ʊ m u d a s t ɹ i d ɨ
+human_P3_Phuduhudu.wav,Phuduhudu,P3,human,allosaurus,pʰ uə tʂ o ŋ ɔ n uə s t ɾ e ɪ tʲ
+human_P3_Phuduhudu.wav,Phuduhudu,P3,human,wav2vec2,p u d u h o d u s t r eɪ t
+human_P3_Pikoko.wav,Pikoko,P3,human,allosaurus,p ɪ k o m k uə o s t e r e l tʲ
+human_P3_Pikoko.wav,Pikoko,P3,human,wav2vec2,p i ɡ oː ɡ o s t ɹ i d
+human_P3_Ramofye.wav,Ramofye,P3,human,allosaurus,p a m uə f ɪ s t ɾ i
+human_P3_Ramofye.wav,Ramofye,P3,human,wav2vec2,r a m uː f e s t r i t
+human_P3_Thakadi.wav,Thakadi,P3,human,allosaurus,tʂ e ʂ ɻ̩ tʰ ɒ d a ɪ dʲ i s t ə ɾ uə
+human_P3_Thakadi.wav,Thakadi,P3,human,wav2vec2,d ɪ k eɪ ʃ ə tʃ a ɡ a d i s t r ʉ t
+human_P3_Phepheng.wav,Phepheng,P3,human,allosaurus,t̪ʰ e tɕʰ i ŋ tʂ ɾ i
+human_P3_Phepheng.wav,Phepheng,P3,human,wav2vec2,p eɪ t eɪ ŋ s t ɹ
+human_P3_Phokobye.wav,Phokobye,P3,human,allosaurus,a ɔ bʲ iː ts ʂ ɾ ʏ t̪ ə
+human_P3_Phokobye.wav,Phokobye,P3,human,wav2vec2,p uː k oː d ɪ s t t ɹ iː t
+human_P3_Ntsu.wav,Ntsu,P3,human,allosaurus,ʔ tʂ u ʏ s t ɾʲ j i tʲ
+human_P3_Ntsu.wav,Ntsu,P3,human,wav2vec2,i n ts u s t ɹ iː t
+human_P3_Nkwe.wav,Nkwe,P3,human,allosaurus,ʔ ɯ uə ɒ t ɾ i
+human_P3_Nkwe.wav,Nkwe,P3,human,wav2vec2,ũ ŋ ɡ w ɛ s t ɹ i d
+human_P3_Segodi.wav,Segodi,P3,human,allosaurus,ð ʏ ɹ h ɔ ɹ d iː s t ɤ i t
+human_P3_Segodi.wav,Segodi,P3,human,wav2vec2,s ɨ ʁ o d ɨ s t ɐ ɹ i t
+human_P3_Mmilo.wav,Mmilo,P3,human,allosaurus,m iː l uə s uə r ɪ
+human_P3_Mmilo.wav,Mmilo,P3,human,wav2vec2,m i l u s t r i d
+human_P4_Mabelebele.wav,Mabelebele,P4,human,allosaurus,m a b̞ j e lʲ ɪ b̞ j e lʲ e s t uə ɾ i
+human_P4_Mabelebele.wav,Mabelebele,P4,human,wav2vec2,m a v e l e v e l i s t ɹ i t
+human_P4_Dinokeng.wav,Dinokeng,P4,human,allosaurus,d u iː ɳ uə w k̟ʲ ɪ ŋ z t ə ɾ e lʲ iː tʰ iː
+human_P4_Dinokeng.wav,Dinokeng,P4,human,wav2vec2,d i n u k e ŋ s t ɹ i l i t e
+human_P4_Nare.wav,Nare,P4,human,allosaurus,n ɑ ʁ ɪ t͡ʃʲ t ə ɾ i z ɪ
+human_P4_Nare.wav,Nare,P4,human,wav2vec2,m a r i s t r i t
+human_P4_Kgolomodumo.wav,Kgolomodumo,P4,human,allosaurus,ʁ ɒ l ɒ m uə u d u m s d̪ ɾ j e iː t̪
+human_P4_Kgolomodumo.wav,Kgolomodumo,P4,human,wav2vec2,x o l o m u d uː m s t r iː d
+human_P4_Garenate.wav,Garenate,P4,human,allosaurus,ʀ a ɾ ʌ m a ɪ tʂ ɾ ɪ s t ɹ̩ r i tʲ
+human_P4_Garenate.wav,Garenate,P4,human,wav2vec2,h a r n a d z i s t r iː d
+human_P4_Korwe.wav,Korwe,P4,human,allosaurus,o ŋ r j i ɪ j ɨ ɾ r j i j
+human_P4_Korwe.wav,Korwe,P4,human,wav2vec2,ɡ ɔ r r e s t r i t
+human_P4_Mokgalo.wav,Mokgalo,P4,human,allosaurus,m ʊ x a l ʊ s ɡ ɾ e ɴ
+human_P4_Mokgalo.wav,Mokgalo,P4,human,wav2vec2,m u x a l ʊ s t ɹ i d ɨ
+human_P4_Mochidi.wav,Mochidi,P4,human,allosaurus,m ɔ̃ i ɕ i bʲ iː ð i t ɛ r ʀ ɪ
+human_P4_Mochidi.wav,Mochidi,P4,human,wav2vec2,m u tʃ i d i s t e ɹ i t
+human_P4_Kgokong.wav,Kgokong,P4,human,allosaurus,tʰ ʁ o k ɒ n ɪ s t e r e n tʰ
+human_P4_Kgokong.wav,Kgokong,P4,human,wav2vec2,x o k o n s t e r i t[
+human_P4_Boikgantsho.wav,Boikgantsho,P4,human,allosaurus,p uə w ɪ h ʌ n tɕʰ ɹ̩ s ð ə ɾ i iː t
+human_P4_Boikgantsho.wav,Boikgantsho,P4,human,wav2vec2,w e x a n tʃ ɑ s d r i d
+human_P4_Areyeng.wav,Areyeng,P4,human,allosaurus,a ʀ ɪ e n ɪ s t ɾ r ɪ
+human_P4_Areyeng.wav,Areyeng,P4,human,wav2vec2,a r r i ŋ s t r i d
+human_P4_Annah_Mabusela.wav,Annah_Mabusela,P4,human,allosaurus,a m ʌ m u s lʲ ɪ e l a s t ʁ ɪ tʲ
+human_P4_Annah_Mabusela.wav,Annah_Mabusela,P4,human,wav2vec2,a n ɐ m ɐ v u s e e l ɐ s t r i d
+human_P4_Bahula.wav,Bahula,P4,human,allosaurus,b̞ a v uə lʲ ʌ s pʲ ɪ ɾ y
+human_P4_Bahula.wav,Bahula,P4,human,wav2vec2,v a r u l a s p r i t
+human_P4_Baloyi.wav,Baloyi,P4,human,allosaurus,b̞ a ɾ l ɔ ɪ s t ɾ ɪ t͡ʃ
+human_P4_Baloyi.wav,Baloyi,P4,human,wav2vec2,b a l uː iː s t ɹ iː t
+human_P4_Batlatja.wav,Batlatja,P4,human,allosaurus,ʌ b̥ a tʂ a ɒ ɪ d͡ʒ ɒ s t ɾ i tʲ
+human_P4_Batlatja.wav,Batlatja,P4,human,wav2vec2,b a k t a dʒ a s t r i t
+human_P4_Bereng.wav,Bereng,P4,human,allosaurus,m ɛ ʁ ʀ ɪ n s ʁ ɪ
+human_P4_Bereng.wav,Bereng,P4,human,wav2vec2,b e r ɪ ŋ s t r i t
+human_P4_Bodibe.wav,Bodibe,P4,human,allosaurus,p ɔ ʁ u dʲ i v̞ʲ ɪ s t ɾ i
+human_P4_Bodibe.wav,Bodibe,P4,human,wav2vec2,u uː d iː v e s t ɹ e t
+human_P4_Bokamoso.wav,Bokamoso,P4,human,allosaurus,m o ɡ a m ɔ l s̪ a ʊ s t ɾ uː t
+human_P4_Bokamoso.wav,Bokamoso,P4,human,wav2vec2,b ʊ k a m m o s o s t ɹ iː t
+human_P4_Boshielo.wav,Boshielo,P4,human,allosaurus,b̞ uə ɕ ɪ æ l o s t ɾ i t ɪ
+human_P4_Boshielo.wav,Boshielo,P4,human,wav2vec2,b u ʃ i e l o s t r i t
+human_P4_Botodi.wav,Botodi,P4,human,allosaurus,p uə tʂ uə l iː s t ɛ ɾ ɪ s
+human_P4_Botodi.wav,Botodi,P4,human,wav2vec2,o ʈ o d i s t r i t
+human_P4_Busang.wav,Busang,P4,human,allosaurus,ɒ ɪ t ə m uə s a s l̪ i n tɕʰ
+human_P4_Busang.wav,Busang,P4,human,wav2vec2,h aɪ k m uː s a ŋ s t ɹ i t
+human_P4_Dibakwane.wav,Dibakwane,P4,human,allosaurus,iː b̞ a k͡p̚ uə a n iː s̪ t̪ ʊ ɾ
+human_P4_Dibakwane.wav,Dibakwane,P4,human,wav2vec2,d i v ɐ k w a n i s t ɹ i t
+human_P4_Dikgakgathe.wav,Dikgakgathe,P4,human,allosaurus,b iː x ɒ x ɒ tʲ j e s t̪ ɪ ɾ r i j iː t̪ ɪ
+human_P4_Dikgakgathe.wav,Dikgakgathe,P4,human,wav2vec2,d eː x a x a t eː s t r iː t
+human_P4_Dimakatso.wav,Dimakatso,P4,human,allosaurus,d ɪ m a n t̪ a ɪ ʐ ɔ s t ɹ̩ ʁ e
+human_P4_Dimakatso.wav,Dimakatso,P4,human,wav2vec2,d i m ɐ ɡ a d u s t ɐ ɹ e d
+human_P4_Dinamo.wav,Dinamo,P4,human,allosaurus,ɪ n ɑ m ɔ s ɾ ɪ
+human_P4_Dinamo.wav,Dinamo,P4,human,wav2vec2,dʒ i n aː m o s t r i d
+human_P4_Ditshego.wav,Ditshego,P4,human,allosaurus,d ɪ ə f e ʁ o a ð ɪ ɲ ɪ z
+human_P4_Ditshego.wav,Ditshego,P4,human,wav2vec2,d i ts e x o a v eɪ ɲ i
+human_P4_Fenyane.wav,Fenyane,P4,human,allosaurus,f æ ɲ a m ɪ n ɛ v ɛ ɲ o
+human_P4_Fenyane.wav,Fenyane,P4,human,wav2vec2,f ɲ a n i e v e n uː
+human_P4_Fetakgomo.wav,Fetakgomo,P4,human,allosaurus,tʂ uə ʏ t a ʁ uə m uə a v ɪ ɲ iː
+human_P4_Fetakgomo.wav,Fetakgomo,P4,human,wav2vec2,f e t a ʁ ʁ o m ɔ̃ a v e l y
+human_P4_Gamolapo.wav,Gamolapo,P4,human,allosaurus,a m ʌ lʲ l a t̪ uə o e b̞ e ɲ u
+human_P4_Gamolapo.wav,Gamolapo,P4,human,wav2vec2,ʁ a m a l a p o e v e ɲ uː
+human_P4_Golele.wav,Golele,P4,human,allosaurus,ɔ lʲ e lʲ ɪ s t ɾ ʌ ɴ tʂ
+human_P4_Golele.wav,Golele,P4,human,wav2vec2,o l e l i s t ɹ i d
+human_P4_Kgaka.wav,Kgaka,P4,human,allosaurus,x ɒ g ɒ v t ɔ ɾ i
+human_P4_Kgaka.wav,Kgaka,P4,human,wav2vec2,a ɡ a s t r i
+human_P4_Kubu.wav,Kubu,P4,human,allosaurus,ɨ ŋ̟ m u d̪ ɨ j iː t̪
+human_P4_Kubu.wav,Kubu,P4,human,wav2vec2,k u s t ɹ i t
+human_P4_Leeba.wav,Leeba,P4,human,allosaurus,lʲ e b̞ a ʂ k͡p̚ ɛ ɾ ɒ j iː
+human_P4_Leeba.wav,Leeba,P4,human,wav2vec2,l eː v a s t r i
+human_P4_Lefye.wav,Lefye,P4,human,allosaurus,lʲ ɪ f i e s t ə ʀ j e n t̪ʰ e s
+human_P4_Lefye.wav,Lefye,P4,human,wav2vec2,l iː f j e s t r i d
+human_P4_Lerubitshi.wav,Lerubitshi,P4,human,allosaurus,ɪ l ɾ u m ɪ ɕ j ɪ ɴ t ə ɾ ɤ̆
+human_P4_Lerubitshi.wav,Lerubitshi,P4,human,wav2vec2,l i r uː v iː tʃ i s t e r r i t
+human_P4_Legakabye.wav,Legakabye,P4,human,allosaurus,l a ɡ a ɪ v ɪ s t r i tʲ
+human_P4_Legakabye.wav,Legakabye,P4,human,wav2vec2,l e h a ɡ a v j ɲ e s t r i t
+human_P4_Mamasiyanoka.wav,Mamasiyanoka,P4,human,allosaurus,v a m ɒ ij j a ɳ u uə k͡p̚ ɒ ɪ r j t̪ ɪ
+human_P4_Mamasiyanoka.wav,Mamasiyanoka,P4,human,wav2vec2,m a m ɐ s i a n u k a s t r i t
+human_P4_Maretologa.wav,Maretologa,P4,human,allosaurus,m a ɾ ʁ ɛ tʂ uə l uə a s t ʁ i
+human_P4_Maretologa.wav,Maretologa,P4,human,wav2vec2,m a r eː t uː l uː a s t r i d
+human_P4_Mmupudu.wav,Mmupudu,P4,human,allosaurus,m ɔ̃ k ʊ d uə s ɪ d a ʁ i l zʲ
+human_P4_Mmupudu.wav,Mmupudu,P4,human,wav2vec2,m u p u d ʊ s t ɹ eɪ t
+human_P4_Mmutla.wav,Mmutla,P4,human,allosaurus,n uə tʂ a s t a ɾ r e tʲ
+human_P4_Mmutla.wav,Mmutla,P4,human,wav2vec2,m u d ʎ ɐ s t ɐ ɹ e d ɨ
+human_P4_Phuduhudu.wav,Phuduhudu,P4,human,allosaurus,pʰ uə tʂ o ŋ ɔ n uə s t ɾ e ɪ tʲ
+human_P4_Phuduhudu.wav,Phuduhudu,P4,human,wav2vec2,p u d u h o d u s t r eɪ t
+human_P4_Pikoko.wav,Pikoko,P4,human,allosaurus,ɪ ɡ ɔ̃ k ɔ ɾ ɪ
+human_P4_Pikoko.wav,Pikoko,P4,human,wav2vec2,p i k o k o s t ɹ i t
+human_P4_Ramofye.wav,Ramofye,P4,human,allosaurus,p a m uə f ɪ s t ɾ i
+human_P4_Ramofye.wav,Ramofye,P4,human,wav2vec2,r a m uː f e s t r i t
+human_P4_Thakadi.wav,Thakadi,P4,human,allosaurus,k a ɡ a l ɪ t͡ʃʲ t ʁ ɪ t
+human_P4_Thakadi.wav,Thakadi,P4,human,wav2vec2,t a ɡ a d i s t v i d
+human_P4_Phepheng.wav,Phepheng,P4,human,allosaurus,t̪ʰ p e j m ʀ i t̪ʰ e p j iː n
+human_P4_Phepheng.wav,Phepheng,P4,human,wav2vec2,p e p eː ŋ k s t r iː t p eː p eː ŋ s t ə n
+human_P4_Phokobye.wav,Phokobye,P4,human,allosaurus,h o k ʁ ə v j ə s t ɾ i tʰ
+human_P4_Phokobye.wav,Phokobye,P4,human,wav2vec2,p u k u v i ɐ s t r i t
+human_P4_Ntsu.wav,Ntsu,P4,human,allosaurus,ɪ t͡ʃʲ i n s a ʁ i z ɛ
+human_P4_Ntsu.wav,Ntsu,P4,human,wav2vec2,ũ tʃ uː s t ɹ i t
+human_P4_Nkwe.wav,Nkwe,P4,human,allosaurus,ɯ m w i s ʁ ɾ ɪ
+human_P4_Nkwe.wav,Nkwe,P4,human,wav2vec2,ũ ɡ w e s t ɹ i d
+human_P4_Segodi.wav,Segodi,P4,human,allosaurus,s e x uə o n iː s t ɪ ɾ e ɪ n
+human_P4_Segodi.wav,Segodi,P4,human,wav2vec2,s ɨ x o d i s t r e
+human_P4_Mmilo.wav,Mmilo,P4,human,allosaurus,w i l ʊ s t ɾ e n tʂ
+human_P4_Mmilo.wav,Mmilo,P4,human,wav2vec2,m i l o s t ɹ eɪ t
+human_P5_Mabelebele.wav,Mabelebele,P5,human,allosaurus,m ɑ ð ɪ ɾ l ə ɪ tʰ lʲ ɪ s ð ɾ ɹ ɛ t
+human_P5_Mabelebele.wav,Mabelebele,P5,human,wav2vec2,m aɪ v ɪ l ɪ v ɪ d l ɪ s t ɹ iː t
+human_P5_Dinokeng.wav,Dinokeng,P5,human,allosaurus,d u iː ɳ uə w k̟ʲ ɪ ŋ z t ə ɾ e lʲ iː tʰ iː
+human_P5_Dinokeng.wav,Dinokeng,P5,human,wav2vec2,d i n u k e ŋ s t ɹ i l i t e
+human_P5_Nare.wav,Nare,P5,human,allosaurus,m a ɾ ɪ t ɻ̩ i n
+human_P5_Nare.wav,Nare,P5,human,wav2vec2,n aː r e s t r i t
+human_P5_Kgolomodumo.wav,Kgolomodumo,P5,human,allosaurus,ʁ ɒ l ɒ m uə u d u m s d̪ ɾ j e iː t̪
+human_P5_Kgolomodumo.wav,Kgolomodumo,P5,human,wav2vec2,x o l o m u d uː m s t r iː d
+human_P5_Garenate.wav,Garenate,P5,human,allosaurus,x a j ɾ ə d n ɑ tʰ t r i
+human_P5_Garenate.wav,Garenate,P5,human,wav2vec2,x a r n a d s t r iː t
+human_P5_Korwe.wav,Korwe,P5,human,allosaurus,p ɔ ɾ ɛ s t ɾ ɪ ɡ
+human_P5_Korwe.wav,Korwe,P5,human,wav2vec2,k o r l e s t r i d
+human_P5_Mokgalo.wav,Mokgalo,P5,human,allosaurus,m ɔ ʁ x a l ɔ s̪ i
+human_P5_Mokgalo.wav,Mokgalo,P5,human,wav2vec2,m ɑ x a ɡ l ɑ s t r i t
+human_P5_Mochidi.wav,Mochidi,P5,human,allosaurus,m uə tɕʰ e ɾʲ ɪ ŋ t ɾ i t̪
+human_P5_Mochidi.wav,Mochidi,P5,human,wav2vec2,m u tʃ iː l iː s t r iː d
+human_P5_Kgokong.wav,Kgokong,P5,human,allosaurus,s ɪ d ɔ m ә s ɛ t ʁ ɒ lʲ ɪ x
+human_P5_Kgokong.wav,Kgokong,P5,human,wav2vec2,x o ɡ o m ʊ s t r e d
+human_P5_Boikgantsho.wav,Boikgantsho,P5,human,allosaurus,w ɪ l j u h a j n d t͡ɕ w ɑ s ð ə ɾ ɹ i tʰ
+human_P5_Boikgantsho.wav,Boikgantsho,P5,human,wav2vec2,u j e x ɑ n tʃ o s t ɹ i n t
+human_P5_Areyeng.wav,Areyeng,P5,human,allosaurus,ʔ a ɾ ə j u n iː z ɾʲ i
+human_P5_Areyeng.wav,Areyeng,P5,human,wav2vec2,a r ɐ j e ŋ s t ɹ i t
+human_P5_Annah_Mabusela.wav,Annah_Mabusela,P5,human,allosaurus,a o m ʌ b̞ uə f ɛ l a ɾ iː
+human_P5_Annah_Mabusela.wav,Annah_Mabusela,P5,human,wav2vec2,a n ɑ m ɑ v uː s e l a s t r i t
+human_P5_Bahula.wav,Bahula,P5,human,allosaurus,w ɛ l x u lʲ ɛ s t i tʰ
+human_P5_Bahula.wav,Bahula,P5,human,wav2vec2,v a x u l a s t r ʉ t
+human_P5_Baloyi.wav,Baloyi,P5,human,allosaurus,ʌ b̞ a l o uə i iː s p ɨ l̪ iː
+human_P5_Baloyi.wav,Baloyi,P5,human,wav2vec2,v aː l oʊ iː s t r i t
+human_P5_Batlatja.wav,Batlatja,P5,human,allosaurus,b a tʂ ɒ d͡ʒ ʌ ɒ s̪ t̪ uə ɾ i
+human_P5_Batlatja.wav,Batlatja,P5,human,wav2vec2,b a d l a dʒ a s t r i t
+human_P5_Bereng.wav,Bereng,P5,human,allosaurus,b̞ a ɾ ɪ ŋ e s t r ɪ ɴ tɕʰ
+human_P5_Bereng.wav,Bereng,P5,human,wav2vec2,v a r i ŋ ɪ s t r r i d
+human_P5_Bodibe.wav,Bodibe,P5,human,allosaurus,ʊ m uə dʲ iː b̞ ɛ s̪ t ə ʁ ɪ tʲ
+human_P5_Bodibe.wav,Bodibe,P5,human,wav2vec2,b uː dʒ i v e s t e ɹ i t
+human_P5_Bokamoso.wav,Bokamoso,P5,human,allosaurus,w ɪ l̪ k ʌ m ʌ z w ɑ z tː ɾ ɹ i tʰ
+human_P5_Bokamoso.wav,Bokamoso,P5,human,wav2vec2,u k a m u s u s t ɹ i tʲ
+human_P5_Boshielo.wav,Boshielo,P5,human,allosaurus,o e ɪ tɕʰ ɪ e l o s t ɾ ɤ̆
+human_P5_Boshielo.wav,Boshielo,P5,human,wav2vec2,o p r a v i tʃ u o i c e l o s t r i t
+human_P5_Botodi.wav,Botodi,P5,human,allosaurus,p ɔ̃ ʁ ə s̪ ɔ l iː t ʁ ɪ
+human_P5_Botodi.wav,Botodi,P5,human,wav2vec2,v u l t o d i s t r i
+human_P5_Busang.wav,Busang,P5,human,allosaurus,uə z ð a ɪ ɴ n ɛ s t ɑ r ɪ t
+human_P5_Busang.wav,Busang,P5,human,wav2vec2,u s a ŋ ɨ s t ɹ i t
+human_P5_Dibakwane.wav,Dibakwane,P5,human,allosaurus,h ɯ b̞ ɤ l f uə a j n iː s t̪ ə ʀ i
+human_P5_Dibakwane.wav,Dibakwane,P5,human,wav2vec2,i v a k o aː r n i s t r i t
+human_P5_Dikgakgathe.wav,Dikgakgathe,P5,human,allosaurus,n ɪ ə f ɑ f a tʂ ɛ s t ɾ e t
+human_P5_Dikgakgathe.wav,Dikgakgathe,P5,human,wav2vec2,d i x a x q a t e s t r i d
+human_P5_Dimakatso.wav,Dimakatso,P5,human,allosaurus,pʲ iː m a n ʁ a l tɕ ə ʊ s t ɹ̩ m ɪ n tʲ
+human_P5_Dimakatso.wav,Dimakatso,P5,human,wav2vec2,d i m a ŋ k a dʒ ɑ s t r i t
+human_P5_Dinamo.wav,Dinamo,P5,human,allosaurus,d ɪ ə n ɑ m uə ɹ̩ ts ɪ x t ə r ɪ n t͡ʃ ɪ x
+human_P5_Dinamo.wav,Dinamo,P5,human,wav2vec2,d i n a m ɑ s t e r i t
+human_P5_Ditshego.wav,Ditshego,P5,human,allosaurus,d iː tsʰ ɛ ɹ ʁ uə l ɛ v ɹ̩ ɲ j u
+human_P5_Ditshego.wav,Ditshego,P5,human,wav2vec2,d iː ts eː r oː ɛ v eː n uː
+human_P5_Fenyane.wav,Fenyane,P5,human,allosaurus,s ɒ ɴ j a ɴ iː ɒ b̞ e ɴ iː
+human_P5_Fenyane.wav,Fenyane,P5,human,wav2vec2,f e ɲ a n i a v e ɲ y
+human_P5_Fetakgomo.wav,Fetakgomo,P5,human,allosaurus,s ɪ p ɒ ʁ x ɔ m ʊ s t ɾ e
+human_P5_Fetakgomo.wav,Fetakgomo,P5,human,wav2vec2,s e t ɐ x o m ʊ s d ɹ eɪ d ɨ
+human_P5_Gamolapo.wav,Gamolapo,P5,human,allosaurus,a m o l a b uə ɛ ə v e ɲ ʊ
+human_P5_Gamolapo.wav,Gamolapo,P5,human,wav2vec2,a m o l aː p o a v i ɲ uː
+human_P5_Golele.wav,Golele,P5,human,allosaurus,ʁ u lʲ e l ɪ s p ɾ ɪ z
+human_P5_Golele.wav,Golele,P5,human,wav2vec2,x u l eː l i s t ɹ iː t
+human_P5_Kgaka.wav,Kgaka,P5,human,allosaurus,h a d ɹ̩ t͡ʃʲ t ɾ ɾʲ i tʲ e
+human_P5_Kgaka.wav,Kgaka,P5,human,wav2vec2,x a k a s t r i d
+human_P5_Kubu.wav,Kubu,P5,human,allosaurus,k͡p̚
+human_P5_Kubu.wav,Kubu,P5,human,wav2vec2,t u u n s
+human_P5_Leeba.wav,Leeba,P5,human,allosaurus,l ɛ b̞ a ʒ ɻ̩ s ɻ̩ r ʌ n tɕ iː
+human_P5_Leeba.wav,Leeba,P5,human,wav2vec2,l e v a s t r i d
+human_P5_Lefye.wav,Lefye,P5,human,allosaurus,ʏ j i e s iː j e s̪ t ɪ ɾ a j
+human_P5_Lefye.wav,Lefye,P5,human,wav2vec2,l i f i e s t r i tʃ
+human_P5_Lerubitshi.wav,Lerubitshi,P5,human,allosaurus,j ɨ o j b ɪ r j e j
+human_P5_Lerubitshi.wav,Lerubitshi,P5,human,wav2vec2,l e r o b i ʃ s t e r i t
+human_P5_Legakabye.wav,Legakabye,P5,human,allosaurus,l a ɡ a ɪ v ɪ s t r i tʲ
+human_P5_Legakabye.wav,Legakabye,P5,human,wav2vec2,l e h a ɡ a v j ɲ e s t r i t
+human_P5_Mamasiyanoka.wav,Mamasiyanoka,P5,human,allosaurus,m a j m a ɕ i ɹ̩ n ɔ g ʌ s t ə l i
+human_P5_Mamasiyanoka.wav,Mamasiyanoka,P5,human,wav2vec2,m a m a s a l n uː k a s t r i
+human_P5_Maretologa.wav,Maretologa,P5,human,allosaurus,m a ʁ ɤ̆ ɪ s tʂ uə l o k a ʂ ʀ i
+human_P5_Maretologa.wav,Maretologa,P5,human,wav2vec2,m a r r eː d ʊ l oː x a s t r iː t
+human_P5_Mmupudu.wav,Mmupudu,P5,human,allosaurus,m uə d uə d uə s ɪ t ʁ i
+human_P5_Mmupudu.wav,Mmupudu,P5,human,wav2vec2,m u p u d u s t ɹ eɪ d
+human_P5_Mmutla.wav,Mmutla,P5,human,allosaurus,uə tʂ ɒ t ɾ i t
+human_P5_Mmutla.wav,Mmutla,P5,human,wav2vec2,m uː t ʌ s t ɹ i t
+human_P5_Phuduhudu.wav,Phuduhudu,P5,human,allosaurus,p ʁ uə d ə v uə ɾ uə z t ʁ ɾ ʁ e tʲ
+human_P5_Phuduhudu.wav,Phuduhudu,P5,human,wav2vec2,p u d h uː d uː s t r aɪ t
+human_P5_Pikoko.wav,Pikoko,P5,human,allosaurus,p i k ɔ p ɔ ɾ ts t ɾ y
+human_P5_Pikoko.wav,Pikoko,P5,human,wav2vec2,p i k o k o s t r i t
+human_P5_Ramofye.wav,Ramofye,P5,human,allosaurus,p a m uə f ɪ s t ɾ i
+human_P5_Ramofye.wav,Ramofye,P5,human,wav2vec2,r a m uː f e s t r i t
+human_P5_Thakadi.wav,Thakadi,P5,human,allosaurus,tʂʰ a k ɒ dʲ iː tʂ ɾ i
+human_P5_Thakadi.wav,Thakadi,P5,human,wav2vec2,t a ɡ a d i s t r i
+human_P5_Phepheng.wav,Phepheng,P5,human,allosaurus,p ɹ̩ p i ŋ z t ə v ə dʒ
+human_P5_Phepheng.wav,Phepheng,P5,human,wav2vec2,p ɨ b eɪ ɪ ŋ s t ə ɹ ɪ d
+human_P5_Phokobye.wav,Phokobye,P5,human,allosaurus,ɨ bʲ iː s t ɾʲ ɹ i
+human_P5_Phokobye.wav,Phokobye,P5,human,wav2vec2,p u k u p i ɐ s t ɹ i t ɨ
+human_P5_Ntsu.wav,Ntsu,P5,human,allosaurus,ʔ ɯ tʂ uː d̪ ɪ ɾ r i j t̪ ɪ
+human_P5_Ntsu.wav,Ntsu,P5,human,wav2vec2,i n t u s t ɹ iː t
+human_P5_Nkwe.wav,Nkwe,P5,human,allosaurus,ʊ b w ɛ s t r e tʲ ɪ ɕ
+human_P5_Nkwe.wav,Nkwe,P5,human,wav2vec2,ũ ŋ ɡ w e ʃ t ɹ i d ɨ
+human_P5_Segodi.wav,Segodi,P5,human,allosaurus,ɯ s ɻ̩ o dʲ iː s t a r i ts
+human_P5_Segodi.wav,Segodi,P5,human,wav2vec2,s oː d i s t r i d
+human_P5_Mmilo.wav,Mmilo,P5,human,allosaurus,m iː l uə sː ɾ ɪ ŋ
+human_P5_Mmilo.wav,Mmilo,P5,human,wav2vec2,m i l o s t ɹ i t
+sys_Mabelebele.wav,Mabelebele,SYS,system,allosaurus,n ə b̥ ɛ l ə b̥ ə l s t ɹ i tʰ
+sys_Mabelebele.wav,Mabelebele,SYS,system,wav2vec2,m ə b ɛ l ə b əl s t ɹ iː t
+sys_Dinokeng.wav,Dinokeng,SYS,system,allosaurus,d ə n ə k æ n s v̞ʲ ɥ i t
+sys_Dinokeng.wav,Dinokeng,SYS,system,wav2vec2,d ɪ n ə k ɪ ŋ s t ɹ iː t
+sys_Nare.wav,Nare,SYS,system,allosaurus,n e j œ̃ s ɹ i tʰ
+sys_Nare.wav,Nare,SYS,system,wav2vec2,n ɛ s t ɹ iː t
+sys_Kgolomodumo.wav,Kgolomodumo,SYS,system,allosaurus,ʌ l̪ lʲ ɒ m ɒ d͡ʒ i m ɒ l̪ y
+sys_Kgolomodumo.wav,Kgolomodumo,SYS,system,wav2vec2,p ɔ l ə m œ d ɨ m aʊ s t ɹ iː
+sys_Garenate.wav,Garenate,SYS,system,allosaurus,g ɛ ə n æ d s t ɹ i tʰ
+sys_Garenate.wav,Garenate,SYS,system,wav2vec2,ɡ ɛ ɹ ə n ɪ t s t ɹ iː t
+sys_Korwe.wav,Korwe,SYS,system,allosaurus,ʁ ɔ sː ɥ i tʲ
+sys_Korwe.wav,Korwe,SYS,system,wav2vec2,k oʊ s t ɹ iː t
+sys_Mokgalo.wav,Mokgalo,SYS,system,allosaurus,m o ɡ a l e s uə y
+sys_Mokgalo.wav,Mokgalo,SYS,system,wav2vec2,m ɑː ɡ ɑː l oʊ s t ɹ iː t
+sys_Mochidi.wav,Mochidi,SYS,system,allosaurus,m o s ɻ̩ ð iː j s ɹ i tʲ
+sys_Mochidi.wav,Mochidi,SYS,system,wav2vec2,m ɑː tʃ ə d iː s t ɹ iː t
+sys_Kgokong.wav,Kgokong,SYS,system,allosaurus,k ʌ l̪ k ɑ n s t ɹ i tʰ
+sys_Kgokong.wav,Kgokong,SYS,system,wav2vec2,k ɑː k ɔ m s t ɹ iː t
+sys_Boikgantsho.wav,Boikgantsho,SYS,system,allosaurus,b̞ o k i æ a n tʂ o uə
+sys_Boikgantsho.wav,Boikgantsho,SYS,system,wav2vec2,w ɜː k æ n tʃ oʊ s t ɹ iː
+sys_Areyeng.wav,Areyeng,SYS,system,allosaurus,ɛ ɹ i ɪ n s ɹ i tʰ
+sys_Areyeng.wav,Areyeng,SYS,system,wav2vec2,ɛ ɹ ɪ ŋ s t ɹ iː t
+sys_Annah_Mabusela.wav,Annah_Mabusela,SYS,system,allosaurus,ɒ ɳ ə m ɨ bʲ iː s ə ð a s ɾ ʏ tʲ
+sys_Annah_Mabusela.wav,Annah_Mabusela,SYS,system,wav2vec2,æ n æ m ð ə b j uː s ɪ l ə s t ɹ iː t
+sys_Bahula.wav,Bahula,SYS,system,allosaurus,b a ɪ l a s t ɥ ʏ tʲ
+sys_Bahula.wav,Bahula,SYS,system,wav2vec2,b eɪ l ɐ s t ɹ iː t
+sys_Baloyi.wav,Baloyi,SYS,system,allosaurus,ɒ l ɔ i s ɹ i tʂ
+sys_Baloyi.wav,Baloyi,SYS,system,wav2vec2,ɛ l ɔ iː s t ɹ iː t
+sys_Batlatja.wav,Batlatja,SYS,system,allosaurus,ɒ t̪ l æ t͡ʃʲ ɻ̩ s t ɹ i tʰ
+sys_Batlatja.wav,Batlatja,SYS,system,wav2vec2,t l æ tʃ ə s t ɹ iː t
+sys_Bereng.wav,Bereng,SYS,system,allosaurus,ɛ b̞ ɪ n s t uə ɹ i tʰ
+sys_Bereng.wav,Bereng,SYS,system,wav2vec2,ɛ ɹ ɪ n s t ɹ iː t
+sys_Bodibe.wav,Bodibe,SYS,system,allosaurus,b ɔ uə k ɪ m o s a ʂ ɻ̩ ə tʲ
+sys_Bodibe.wav,Bodibe,SYS,system,wav2vec2,b oː k ə m oː s oʊ s t ɹ iː t
+sys_Bokamoso.wav,Bokamoso,SYS,system,allosaurus,b ɔ uə k ɪ m o s a ʂ ɻ̩ ə tʲ
+sys_Bokamoso.wav,Bokamoso,SYS,system,wav2vec2,b oː k ə m oː s oʊ s t ɹ iː t
+sys_Boshielo.wav,Boshielo,SYS,system,allosaurus,tɕʰ i n o w s uə ɹ i tʰ
+sys_Boshielo.wav,Boshielo,SYS,system,wav2vec2,ʃ iː l oʊ s t ɹ iː t
+sys_Botodi.wav,Botodi,SYS,system,allosaurus,ə tsʰ ɒ ɾʲ i s ɹ i tʲ
+sys_Botodi.wav,Botodi,SYS,system,wav2vec2,ə t oʊ d i s t ɹ iː t
+sys_Busang.wav,Busang,SYS,system,allosaurus,d u j u s æ ɲ ŋ s ɹ i tʰ
+sys_Busang.wav,Busang,SYS,system,wav2vec2,b j uː s æ n s t ɹ iː t
+sys_Dibakwane.wav,Dibakwane,SYS,system,allosaurus,b ə k ɔ ɴ s ʂ ʏ uː tʲ
+sys_Dibakwane.wav,Dibakwane,SYS,system,wav2vec2,b ə k ʊ n s t ɹ iː t
+sys_Dikgakgathe.wav,Dikgakgathe,SYS,system,allosaurus,ɾʲ iː t͡ɕ a tʂ a m s t uə i tʲ
+sys_Dikgakgathe.wav,Dikgakgathe,SYS,system,wav2vec2,ə ɡ æ ɡ ɛ v s t ɹ iː t
+sys_Dimakatso.wav,Dimakatso,SYS,system,allosaurus,d i m a kʰ a n s̪ uə ʂ uə i tʲ
+sys_Dimakatso.wav,Dimakatso,SYS,system,wav2vec2,d iː m ɑː k æ t ts uː s t ɹ iː t
+sys_Dinamo.wav,Dinamo,SYS,system,allosaurus,d ɪ n a m ɒ ð s t ɹ i tʰ
+sys_Dinamo.wav,Dinamo,SYS,system,wav2vec2,d ɪ n æ m oʊ s t ɹ iː t
+sys_Ditshego.wav,Ditshego,SYS,system,allosaurus,ə tɕʰ ɪ n g ʌ ŋ s uə i tʲ
+sys_Ditshego.wav,Ditshego,SYS,system,wav2vec2,d ə tʃ ɪ ɡ ə s t ɹ iː t
+sys_Fenyane.wav,Fenyane,SYS,system,allosaurus,k͡p̚ e ɪ n a ɪ n ɴ s ɥ i tʲ
+sys_Fenyane.wav,Fenyane,SYS,system,wav2vec2,f ɛ n aɪ n s t ɹ iː t
+sys_Fetakgomo.wav,Fetakgomo,SYS,system,allosaurus,f e ɪ t̪ ɒ x o uə m o uə s ʂ uə e
+sys_Fetakgomo.wav,Fetakgomo,SYS,system,wav2vec2,f ɛ t a h ʊ m oː s t ɹ iː t
+sys_Gamolapo.wav,Gamolapo,SYS,system,allosaurus,lʲ i a ɴ ʌ l æ ɪ t̪ a b̞ a v ɪ n iː
+sys_Gamolapo.wav,Gamolapo,SYS,system,wav2vec2,ɡ a m a l ɛ p oː ɛ v ə n j uː
+sys_Golele.wav,Golele,SYS,system,allosaurus,ɹ æ lʲ ə l s t ɹ i tʰ
+sys_Golele.wav,Golele,SYS,system,wav2vec2,ɡ ɑː v ə l s t ɹ iː t
+sys_Kgaka.wav,Kgaka,SYS,system,allosaurus,ɒ p ɒ s t ɹ i tʰ
+sys_Kgaka.wav,Kgaka,SYS,system,wav2vec2,d ɑː k ɑː s t ɹ iː t
+sys_Kubu.wav,Kubu,SYS,system,allosaurus,ɾ ə b ɨ s t͡ɕ uə ʁ tʲ
+sys_Kubu.wav,Kubu,SYS,system,wav2vec2,uː b ɚ s t ɹ iː t
+sys_Leeba.wav,Leeba,SYS,system,allosaurus,i v ə s t ɹ i tʰ
+sys_Leeba.wav,Leeba,SYS,system,wav2vec2,l iː b ɚ s t ɹ iː t
+sys_Lefye.wav,Lefye,SYS,system,allosaurus,ɛ f a j s ɹ i tʰ
+sys_Lefye.wav,Lefye,SYS,system,wav2vec2,ɛ f aɪ s t ɹ iː t
+sys_Lerubitshi.wav,Lerubitshi,SYS,system,allosaurus,ð ɛ ɹ ɨ b̥ iː n tɕʰ i s t ɹ i tʂ ɹ̩
+sys_Lerubitshi.wav,Lerubitshi,SYS,system,wav2vec2,l ə r y b i tʃ iː s t ɹ iː t
+sys_Legakabye.wav,Legakabye,SYS,system,allosaurus,l̪ lː i ɟ æ k͡p̚ ɨ b̥ a j s t ɹ i tʰ
+sys_Legakabye.wav,Legakabye,SYS,system,wav2vec2,l i ɡ æ k ə b aɪ s t ɹ iː t
+sys_Mamasiyanoka.wav,Mamasiyanoka,SYS,system,allosaurus,m a fʲ ə e ɴ n ə k ʌ s ɥ i tʲ
+sys_Mamasiyanoka.wav,Mamasiyanoka,SYS,system,wav2vec2,m æ s iː ə n oʊ k ə s t ɹ iː t
+sys_Maretologa.wav,Maretologa,SYS,system,allosaurus,m o b̞ e ɪ tʰ ʌ l a ɒ ɪ ʌ ð e s t uə ɻ̩
+sys_Maretologa.wav,Maretologa,SYS,system,wav2vec2,m oʊ ɹ ɪ t ə l oʊ ɡ ə s t ɹ iː t
+sys_Mmupudu.wav,Mmupudu,SYS,system,allosaurus,ɒ l̪ p ɹ ʏ d u s t ɹ i tʰ
+sys_Mmupudu.wav,Mmupudu,SYS,system,wav2vec2,ə p ʊ d uː s t ɹ iː t
+sys_Mmutla.wav,Mmutla,SYS,system,allosaurus,m ʌ tʰ ə s t ɹ i tʰ
+sys_Mmutla.wav,Mmutla,SYS,system,wav2vec2,ɪ n m ʌ t l ə s t ɹ iː t
+sys_Phuduhudu.wav,Phuduhudu,SYS,system,allosaurus,ʀ uə e ɪ tʂ o ʁ x œ tʂ ɻ̩ s t uə t̪
+sys_Phuduhudu.wav,Phuduhudu,SYS,system,wav2vec2,h uː d ə h uː d uː s t ɹ iː t
+sys_Pikoko.wav,Pikoko,SYS,system,allosaurus,b̥ e k ɒ l k ɒ s t ɹ i tʰ
+sys_Pikoko.wav,Pikoko,SYS,system,wav2vec2,p ɪ k oʊ k oʊ s t ɹ iː t
+sys_Ramofye.wav,Ramofye,SYS,system,allosaurus,ɹ æ n ə f a j s t ɹ i tʰ
+sys_Ramofye.wav,Ramofye,SYS,system,wav2vec2,ɹ æ n ə f aɪ s t ɹ iː t
+sys_Thakadi.wav,Thakadi,SYS,system,allosaurus,ɒ w k ɑ ɾ ə s t ɹ i tʰ
+sys_Thakadi.wav,Thakadi,SYS,system,wav2vec2,t æ k ɑː d ə s t ɹ iː t
+sys_Phepheng.wav,Phepheng,SYS,system,allosaurus,ə s ɛ s ә n s t ɥ i tʰ
+sys_Phepheng.wav,Phepheng,SYS,system,wav2vec2,ə f ɛ f ə n s t ɹ iː t
+sys_Phokobye.wav,Phokobye,SYS,system,allosaurus,f a l̪ k͡p̚ k ɨ b̥ a j s t ɹ i tʰ
+sys_Phokobye.wav,Phokobye,SYS,system,wav2vec2,ə f ɑː k ə b aɪ s t ɹ iː t
+sys_Ntsu.wav,Ntsu,SYS,system,allosaurus,æ n s ɯ s t ɹ i tʰ
+sys_Ntsu.wav,Ntsu,SYS,system,wav2vec2,n s i s t ɹ iː t
+sys_Nkwe.wav,Nkwe,SYS,system,allosaurus,uə x uə ə ɪ ʂ uə ə tʂ ɹ̩
+sys_Nkwe.wav,Nkwe,SYS,system,wav2vec2,n k w eɪ s t ɹ iː t
+sys_Segodi.wav,Segodi,SYS,system,allosaurus,ɪ ɡ ɔ ɾ ɪ s ɥ i tʲ
+sys_Segodi.wav,Segodi,SYS,system,wav2vec2,ɡ oʊ d i s t ɹ iː t
+sys_Mmilo.wav,Mmilo,SYS,system,allosaurus,ɒ ɳ ɒ tʰ s ʂ ɹ i tʲ
+sys_Mmilo.wav,Mmilo,SYS,system,wav2vec2,m ɪ l oʊ s t ɹ iː t

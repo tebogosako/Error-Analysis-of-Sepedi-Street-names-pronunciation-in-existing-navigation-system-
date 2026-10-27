@@ -1,0 +1,13 @@
+﻿street,participant,position,operation,ref_phone,sys_phone,error_code,category,severity,reason_string
+Annah_Mabusela,P4,4,sub,u,ɨ,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,Afrikaans/Sepedi 'oe' corresponds to /u/
+Annah_Mabusela,P5,7,sub,f,s,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,"Sepedi 'v' is realised as /f/, not /v/"
+Areyeng,P5,5,del,u,*,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,Afrikaans/Sepedi 'oe' corresponds to /u/
+Bahula,P4,2,sub,v,ɪ,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,"Sepedi 'w' is realised as /v/, not /w/"
+Bahula,P1,3,sub,ŋ,ɪ,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,"Sepedi 'ng' is a velar nasal /ŋ/, not /nɡ/"
+Bahula,P1,4,sub,u,l,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,Afrikaans/Sepedi 'oe' corresponds to /u/
+Bahula,P3,4,sub,u,a,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,Afrikaans/Sepedi 'oe' corresponds to /u/
+Bahula,P5,4,sub,x,a,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,"Afrikaans/Sepedi 'g' is /x/, not /ɡ/"
+Bahula,P5,5,del,u,*,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,Afrikaans/Sepedi 'oe' corresponds to /u/
+Baloyi,P3,2,sub,a,ɔ,ACC-01,Accent-transfer effect,High,Front-vowel rounding difference transferred from English
+Batlatja,P2,0,sub,v,ɒ,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,"Sepedi 'w' is realised as /v/, not /w/"
+Batlatja,P1,1,sub,v,t̪,G2P/G2M-01,G2P / grapheme-to-morpheme error,High,"Sepedi 'w' is realised as /v/, not /w/"

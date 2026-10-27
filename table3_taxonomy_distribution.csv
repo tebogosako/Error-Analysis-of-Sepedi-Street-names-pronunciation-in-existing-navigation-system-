@@ -1,0 +1,8 @@
+error_code,category,severity,count,percentage
+MISC-01,Residual unclassified,Low,1424,48.5
+DEL-01,Deletion,Medium,677,23.1
+INS-01,Insertion,Medium,241,8.2
+VOW-01,Vowel-quality difference,Medium,222,7.6
+CON-01,Consonant-realisation difference,Medium,194,6.6
+G2P/G2M-01,G2P / grapheme-to-morpheme error,High,129,4.4
+ACC-01,Accent-transfer effect,High,48,1.6

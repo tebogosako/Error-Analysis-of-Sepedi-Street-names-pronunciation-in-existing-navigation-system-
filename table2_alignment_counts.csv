@@ -1,0 +1,8 @@
+Metric,Count
+Reference phones aligned,3274.0
+Substitutions,1994.0
+Deletions,700.0
+Insertions,241.0
+Total edits,2935.0
+PER,0.8965
+Pronunciation score (1 - PER),0.1035
